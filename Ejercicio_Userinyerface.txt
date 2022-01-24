@@ -1,0 +1,25 @@
+Ejercicio Userinyerface.com
+
+1. La página inicial incluye un boton verde grande el cual no corresponde el color con el texto con la acción que deberia realizar, ya que asociamos el color verde con ACEPTAR o AVANZAR, para poder continuar tienes que hacer click en un texto pequeño que no está marcado.
+
+2. Tiene un mensaje enorme de COOKIES el cual no te deja aceptarlo, y sale en rojo.
+
+3. Tiene un contador de tiempo, el cual no deberia de estar para rellenar un formulario, en aplicaciones de compra o de pago es entendible, pero aqui no.
+
+4. Aparece una ventana grande indicando el tiempo el cual no deja cerrar, tienes que encontrar la parte exacta para cerrarlo.
+
+5. Tiene campos que son dificiles de rellenar, no son entendibles y pide requisitos tontos.
+
+6. Los colores de requisitos de datos no corresponde, dan a entender que están correctos por su color verde.
+
+7. La contraseña no es tipo password, con lo cual son totalmente visibles.
+
+8. Los campos de aceptar no se distinguen bien, con lo cual no sabes si están aceptados o no.
+
+9. A la hora de actualizar tu perfil, te dice que DESCARGUES un avatar, en vez de SUBIRLO tu.
+
+10. Por defecto todos los intereses aparecen marcados, tienes que desmarcarlos y marcar los que quieras.
+
+11. Los campos a rellenar estan relacionados, y no son nada amigables.
+
+12. El captcha final no es intuitivo, te pide que seleciones X objetos, y todos los objetos son iguales pero distintos significados.
